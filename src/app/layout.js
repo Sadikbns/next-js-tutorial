@@ -1,3 +1,8 @@
+export const metadata = {
+    title : 'Next.js',
+    description : 'Generated from next.js'
+}
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
