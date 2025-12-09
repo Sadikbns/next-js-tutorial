@@ -1,3 +1,9 @@
+export const metadata = {
+    title : {
+        absolute: "DOCS"
+    }
+}
+
 export default async function Docs({params}) {
     const {slug} = await params
     

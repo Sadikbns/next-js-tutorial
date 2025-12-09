@@ -1,4 +1,3 @@
-import {Metadata} from 'next'
 import { resolve } from 'styled-jsx/css'
 
 export const generateMetadata = async ({params}) => {

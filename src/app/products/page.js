@@ -1,3 +1,7 @@
+export const metadata = {
+    title: "Products"
+}
+
 function Products() {
     return (
         <>
